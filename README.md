@@ -1,6 +1,9 @@
 # covidify
 
 A new Flutter project.
+*  A Mobile App from which we know the covid vaccination center and covid cases in India as well as in worldwide.
+*  In this app we can search center by pincode or with state and district name.       
+
 
 ## Getting Started
 
